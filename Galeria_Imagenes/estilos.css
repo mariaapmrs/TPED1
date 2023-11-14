@@ -58,11 +58,11 @@ p {
   padding-right: 400px;
 }
 
-section {
+#introduccion {
   background-color: rgba(31, 154, 173, 0.357);
-  padding-top: 20px;
-  padding-bottom: 20px;
-  overflow: hidden; /*Esto sirve para que no se solapen las partes de la estructura del html, en este caso el section con el article*/
+  padding-top: 50px;
+  padding-bottom: 60px;
+ /* overflow: hidden; Esto sirve para que no se solapen las partes de la estructura del html, en este caso el section con el article*/
 }
 
 article {
