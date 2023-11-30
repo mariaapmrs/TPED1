@@ -12,6 +12,7 @@ body {
 header {
   height: 60px;
   background-color: rgb(36, 53, 71);
+  position: fixed; 
 }
 
 header ul li {
